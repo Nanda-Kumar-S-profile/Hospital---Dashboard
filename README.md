@@ -1,9 +1,3 @@
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
-
-## Dashboard
-
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
-
 ## Project Insight
 The Power BI dashboard for the Hospital Emergency Room was designed to deliver data-driven insights across multiple operational dimensions. Key insights derived from the analysis include:
 
